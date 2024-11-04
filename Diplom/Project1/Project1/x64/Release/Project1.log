@@ -1,0 +1,4 @@
+﻿  MyForm3.cpp
+C:\Users\zin13\Desktop\Diplom\Project1\Project1\MyForm3.cpp(558,9): warning C4101: readingint: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project1.vcxproj -> C:\Users\zin13\Desktop\Diplom\Project1\x64\Release\ISforCompany.exe
